@@ -1,8 +1,11 @@
-import Classroom from './components/Classroom';
+import React from 'react';
 
 function App() {
   return (
-    <Classroom />
+    <div>
+      <h1>Welcome to Next Toppers!</h1>
+      <p>Your Vite + React app is ready for Vercel deployment.</p>
+    </div>
   );
 }
 
